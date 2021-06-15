@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://tenor.com/view/nerd-spongebob-studying-gif-13392543" width="100" height="100" />
+<img src="https://tenor.com/view/nerd-spongebob-studying-gif" width="100" height="100" />
 https://tenor.com/view/nerd-spongebob-studying-gif-13392543
