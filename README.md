@@ -2,21 +2,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Samuel%20Gicho&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20DevOps%20%E2%80%A2%20AI%20Engineer&descColor=7dd3fc&descSize=18&descAlignY=60&animation=fadeIn" />
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+AI+systems+that+solve+real+problems;Full+Stack+%7C+DevOps+%7C+Cloud+Infrastructure;Making+Africa's+challenges+tech+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+AI+systems+that+solve+real+problems;Full+Stack+%7C+DevOps+%7C+Cloud+Infrastructure;Making+Africa%27s+challenges+tech+opportunities)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-samuelgicho.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=00d4ff&labelColor=0d1117&color=0d1117)](https://samuelgicho.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel_Gicho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-gicho/)
-[![Twitter/X](https://img.shields.io/badge/X-@Apchoder7-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Apchoder7)
-[![GitHub](https://img.shields.io/badge/GitHub-souuja--ops-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/souuja-ops)
+[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-samuelgicho.vercel.app-00d4ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e)](https://samuelgicho.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel_Gicho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/samuel-gicho/)
+[![Twitter/X](https://img.shields.io/badge/X-@Apchoder7-ffffff?style=for-the-badge&logo=x&logoColor=black&labelColor=1a1a2e)](https://x.com/Apchoder7)
+[![GitHub](https://img.shields.io/badge/GitHub-souuja--ops-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a2e)](https://github.com/souuja-ops)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=souuja-ops&color=00d4ff&style=flat-square&label=Profile+Views)
-&nbsp;
+&nbsp;&nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/souuja-ops?style=flat-square&color=00d4ff&labelColor=0d1117&label=Followers)
 
 </div>
